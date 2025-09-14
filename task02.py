@@ -1,0 +1,2 @@
+num=[5,4,2,1,6]
+print("Numbers:",num)
