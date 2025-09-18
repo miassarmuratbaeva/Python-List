@@ -4,6 +4,6 @@ for i in range(5):
     words.append(word)
 palindrom=[]
 for word in words:
-    if word==word[::-1]:  # So'z teskari yozilganda o'ziga teng bo'lishi kerak
+    if word==word[::-1]:  
         palindrom.append(word)
 print(palindrom)
